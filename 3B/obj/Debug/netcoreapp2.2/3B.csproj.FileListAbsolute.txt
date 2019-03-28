@@ -1,0 +1,11 @@
+C:\_WORKING\Development\csharp-lab\3B\bin\Debug\netcoreapp2.2\3B.deps.json
+C:\_WORKING\Development\csharp-lab\3B\bin\Debug\netcoreapp2.2\3B.runtimeconfig.json
+C:\_WORKING\Development\csharp-lab\3B\bin\Debug\netcoreapp2.2\3B.runtimeconfig.dev.json
+C:\_WORKING\Development\csharp-lab\3B\bin\Debug\netcoreapp2.2\3B.dll
+C:\_WORKING\Development\csharp-lab\3B\bin\Debug\netcoreapp2.2\3B.pdb
+C:\_WORKING\Development\csharp-lab\3B\obj\Debug\netcoreapp2.2\3B.csprojAssemblyReference.cache
+C:\_WORKING\Development\csharp-lab\3B\obj\Debug\netcoreapp2.2\3B.csproj.CoreCompileInputs.cache
+C:\_WORKING\Development\csharp-lab\3B\obj\Debug\netcoreapp2.2\3B.AssemblyInfoInputs.cache
+C:\_WORKING\Development\csharp-lab\3B\obj\Debug\netcoreapp2.2\3B.AssemblyInfo.cs
+C:\_WORKING\Development\csharp-lab\3B\obj\Debug\netcoreapp2.2\3B.dll
+C:\_WORKING\Development\csharp-lab\3B\obj\Debug\netcoreapp2.2\3B.pdb

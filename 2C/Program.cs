@@ -13,6 +13,12 @@ namespace _2C
             } else {
                 Console.WriteLine("Null");
             }
+
+            int? j = null;
+            int k = j ?? 10;
+
+            Console.WriteLine(j.HasValue);
+            Console.WriteLine(k);
         }
     }
 }
