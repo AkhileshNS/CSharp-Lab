@@ -1,0 +1,11 @@
+C:\Users\Akhilesh\Desktop\Development\C#\2B\bin\Debug\netcoreapp2.1\2B.deps.json
+C:\Users\Akhilesh\Desktop\Development\C#\2B\bin\Debug\netcoreapp2.1\2B.runtimeconfig.json
+C:\Users\Akhilesh\Desktop\Development\C#\2B\bin\Debug\netcoreapp2.1\2B.runtimeconfig.dev.json
+C:\Users\Akhilesh\Desktop\Development\C#\2B\bin\Debug\netcoreapp2.1\2B.dll
+C:\Users\Akhilesh\Desktop\Development\C#\2B\bin\Debug\netcoreapp2.1\2B.pdb
+C:\Users\Akhilesh\Desktop\Development\C#\2B\obj\Debug\netcoreapp2.1\2B.csprojAssemblyReference.cache
+C:\Users\Akhilesh\Desktop\Development\C#\2B\obj\Debug\netcoreapp2.1\2B.csproj.CoreCompileInputs.cache
+C:\Users\Akhilesh\Desktop\Development\C#\2B\obj\Debug\netcoreapp2.1\2B.AssemblyInfoInputs.cache
+C:\Users\Akhilesh\Desktop\Development\C#\2B\obj\Debug\netcoreapp2.1\2B.AssemblyInfo.cs
+C:\Users\Akhilesh\Desktop\Development\C#\2B\obj\Debug\netcoreapp2.1\2B.dll
+C:\Users\Akhilesh\Desktop\Development\C#\2B\obj\Debug\netcoreapp2.1\2B.pdb
