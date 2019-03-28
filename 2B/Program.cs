@@ -28,20 +28,11 @@ namespace _2B
             StringBuilder sb = new StringBuilder("Hello World");
             Console.WriteLine(sb);
 
-            sb.Append("!!");
-            Console.WriteLine(sb);
-            
-            sb.AppendLine("New World Order");
-            Console.WriteLine(sb);
-
-            sb.Replace("\n", ":");
-            Console.WriteLine(sb);
-
-            sb.Insert(0, "Welcome to ");
-            Console.WriteLine(sb);
-
-            sb.Clear();
-            Console.WriteLine(sb);
+            Console.WriteLine(sb.Append("!!"));
+            Console.WriteLine(sb.AppendLine("New World Order"));
+            Console.WriteLine(sb.Replace(" ", "_"));
+            Console.WriteLine(sb.Insert(0, "Welcome to "));
+            Console.WriteLine(sb.Clear());
         }
     }
 }

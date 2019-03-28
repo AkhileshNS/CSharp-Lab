@@ -1,47 +1,79 @@
-﻿using System;
+using System;
 
-namespace _4B {
-    interface Payable {
-        double retrieveAmountDue();
-        void addAmountDue(double amount);
-        string paymentAddress();
+namespace _4B
+{
+    interface Payable
+    {
+        double amount { get; set; } //Property... not a member variable!
+        string PaymentAddress { get; set; }
+        double RetrieveAmountDue();
+        void AddToAmountDue(double extra);
     }
 
-    class Person {
-        string name;
-        public Person() {
-            Console.WriteLine("Enter the Person's name: ");
+    class Person
+    {
+        public string name;
+        public Person()
+        {
+            Console.Write("Enter Name : ");
             name = Console.ReadLine();
         }
+        public void displayPerson()
+        {
+            Console.WriteLine("Name : {0}", name);
+        }
     }
 
-    class Employee: Person, Payable {
+    class Employee : Person, Payable
+    {
         double salary;
-        string mailAddress;
-        protected internal double amountDue = 0;
-        public Employee() {
-            Console.WriteLine("Enter the Employee's salary and mailAddress: ");
-            salary = Convert.ToDouble(Console.ReadLine());
-            mailAddress = Console.ReadLine();
+        string MailingAddress;
+
+        public double amount { get; set; }
+        public string PaymentAddress { get; set; }
+
+        public Employee() : base()
+        {
+            Console.Write("Enter Salary : ");
+            salary = double.Parse(Console.ReadLine());
+            Console.Write("Enter mailing address : ");
+            MailingAddress = Console.ReadLine();
+            PaymentAddress = MailingAddress;
+            amount = 0;
         }
-        public double retrieveAmountDue() {
-            return amountDue;
+        public double RetrieveAmountDue()
+        {
+            return amount;
         }
-        public void addAmountDue(double amount) {
-            amountDue += amount;
+        public void AddToAmountDue(double extra)
+        {
+            amount = amount + extra;
         }
-        public string paymentAddress() {
-            return mailAddress;
+        public void display()
+        {
+            displayPerson();
+            Console.WriteLine("Salary : {0}\nMailing/Payment address : {1}\nAmount Due : {2}", salary, MailingAddress, amount);
         }
     }
 
-    class Program {
-        static void Main(string[] args) {
-            Employee e = new Employee();
-            Console.WriteLine("Enter the amount due:");
-            e.addAmountDue(Convert.ToDouble(Console.ReadLine()));
-            Console.WriteLine("The new Amount Due is {0}", e.retrieveAmountDue());
-            Console.WriteLine("The mailing address is {0}", e.paymentAddress());
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Employee emp = new Employee();
+            emp.AddToAmountDue(5000);
+            emp.display();
+            Console.Read();
+
         }
     }
 }
+
+//OUTPUT
+// Enter Name : Anirban Ghosh
+// Enter Salary : 56000
+// Enter mailing address : FD-74, HAL, Old Madras Road, Bangalore
+// Name : Anirban Ghosh
+// Salary : 56000
+// Mailing/Payment address : FD-74, HAL, Old Madras Road, Bangalore
+// Amount Due : 5000

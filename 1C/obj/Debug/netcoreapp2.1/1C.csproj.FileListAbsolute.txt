@@ -9,3 +9,14 @@ C:\Users\Akhilesh\Desktop\Development\C#\1C\obj\Debug\netcoreapp2.1\1C.AssemblyI
 C:\Users\Akhilesh\Desktop\Development\C#\1C\obj\Debug\netcoreapp2.1\1C.AssemblyInfo.cs
 C:\Users\Akhilesh\Desktop\Development\C#\1C\obj\Debug\netcoreapp2.1\1C.dll
 C:\Users\Akhilesh\Desktop\Development\C#\1C\obj\Debug\netcoreapp2.1\1C.pdb
+C:\_WORKING\Development\csharp-lab\1C\bin\Debug\netcoreapp2.1\1C.deps.json
+C:\_WORKING\Development\csharp-lab\1C\bin\Debug\netcoreapp2.1\1C.runtimeconfig.json
+C:\_WORKING\Development\csharp-lab\1C\bin\Debug\netcoreapp2.1\1C.runtimeconfig.dev.json
+C:\_WORKING\Development\csharp-lab\1C\bin\Debug\netcoreapp2.1\1C.dll
+C:\_WORKING\Development\csharp-lab\1C\bin\Debug\netcoreapp2.1\1C.pdb
+C:\_WORKING\Development\csharp-lab\1C\obj\Debug\netcoreapp2.1\1C.csprojAssemblyReference.cache
+C:\_WORKING\Development\csharp-lab\1C\obj\Debug\netcoreapp2.1\1C.csproj.CoreCompileInputs.cache
+C:\_WORKING\Development\csharp-lab\1C\obj\Debug\netcoreapp2.1\1C.AssemblyInfoInputs.cache
+C:\_WORKING\Development\csharp-lab\1C\obj\Debug\netcoreapp2.1\1C.AssemblyInfo.cs
+C:\_WORKING\Development\csharp-lab\1C\obj\Debug\netcoreapp2.1\1C.dll
+C:\_WORKING\Development\csharp-lab\1C\obj\Debug\netcoreapp2.1\1C.pdb
