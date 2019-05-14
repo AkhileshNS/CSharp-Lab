@@ -1,0 +1,11 @@
+C:\_WORKING\Development\csharp-lab\5A\bin\Debug\netcoreapp2.2\5A.deps.json
+C:\_WORKING\Development\csharp-lab\5A\bin\Debug\netcoreapp2.2\5A.runtimeconfig.json
+C:\_WORKING\Development\csharp-lab\5A\bin\Debug\netcoreapp2.2\5A.runtimeconfig.dev.json
+C:\_WORKING\Development\csharp-lab\5A\bin\Debug\netcoreapp2.2\5A.dll
+C:\_WORKING\Development\csharp-lab\5A\bin\Debug\netcoreapp2.2\5A.pdb
+C:\_WORKING\Development\csharp-lab\5A\obj\Debug\netcoreapp2.2\5A.csprojAssemblyReference.cache
+C:\_WORKING\Development\csharp-lab\5A\obj\Debug\netcoreapp2.2\5A.csproj.CoreCompileInputs.cache
+C:\_WORKING\Development\csharp-lab\5A\obj\Debug\netcoreapp2.2\5A.AssemblyInfoInputs.cache
+C:\_WORKING\Development\csharp-lab\5A\obj\Debug\netcoreapp2.2\5A.AssemblyInfo.cs
+C:\_WORKING\Development\csharp-lab\5A\obj\Debug\netcoreapp2.2\5A.dll
+C:\_WORKING\Development\csharp-lab\5A\obj\Debug\netcoreapp2.2\5A.pdb
